@@ -1,0 +1,25 @@
+ Hi Luis,
+
+
+Thank you very much for sharing this draft! I am very interested in Ha emitters in the local universe and very happy to see the Ha work from S-PLUS. Here are some minor comments:
+
+
+1, Target selection: is the \sigma_s^2 - \sigma_phot^2 in Equation (1) should be \sigma_s^2 + \sigma_phot^2 ? I understand this equation as the Ha emitters should have the r-Ha color 4 sigma significance, then why use 4 sigma rather than 5 sigma?
+
+
+The target selection method in Wevers+ 2017 seems mainly focus on the stars in the Galaxy, while most of the Ha emitters in this paper are galaxies (Table 1). Do we expect a linear correlation between r - J0660 to r - i for most of the targets? As shown in Fig. 2, r-i > 1.5 targets are offset the linear regression fit results.
+
+
+2, The dots in Fig. 2 are distributed in a much smaller region, so maybe change x range as -2 to 3 is enough for most of the dots. also Fig. 4 can be zoom in a little bit.
+
+
+3, Sec. 2.4, usually the color is blue band - red band, such as g-r, r-i, I wonder why use the color z-g, rather than g-z here, is there some special reason?
+
+
+4, In Sec. 3, I wonder which release version of the LAMOST spectra are you using? The current public version is about DR8. I know the public released catalog is large enough for most of the papers. Since I am working in the same institute as LAMOST, I have the full access to the latest data, so let me know if you need the latest catalog.
+
+
+5, Maybe put the two histogram in Fig. 7 at upper and right side of the g-r, z-g plot? like the scatter plot with histograms: https://matplotlib.org/3.3.0/gallery/lines_bars_and_markers/scatter_hist.html 
+
+
+6, Fig. 14, top panel: I suggest to compare this Ha emitter r band number density with the general r band number density, in unit of numbers per mag per deg^2. Then we can see the fraction of Ha emitter in each r band magnitude bin; The middle and bottom panel of Fig. 14 can be added to Fig. 4 

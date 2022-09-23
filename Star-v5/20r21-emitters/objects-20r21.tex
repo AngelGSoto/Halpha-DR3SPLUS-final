@@ -1,0 +1,33 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{natbib}
+\usepackage{graphicx}
+%\usepackage[spanish, es-minimal]{babel}
+\usepackage[spanish, es-minimal, english]{babel}
+%\usepackage[vmargin=0.8in, hmargin=1.00in]{geometry}
+\usepackage[vmargin=0.7in, hmargin=1.0in]{geometry}
+\usepackage{lipsum}
+\usepackage{longtable}
+\usepackage{pdfpages}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{url}
+
+
+\newcommand\BowshockFig[1]{
+  \includegraphics[width=\figwidth, clip, trim=10 10 10 10]
+  {#1}
+}
+\newcommand\raiselabel[1]{\raisebox{0.9\figwidth}[-0.5\figwidth]{#1}}
+\newcommand\raiselabelPho[1]{\raisebox{0.62\figwidth}[-0.5\figwidth]{#1}}
+
+\begin{document}
+
+\begin{longtable}{ccc}
+  %\caption[]{continuación }\\
+  \input{table-plots-Halpha-20r21.tex}
+\end{longtable}
+
+\end{document}
+

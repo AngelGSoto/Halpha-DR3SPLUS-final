@@ -1,0 +1,11 @@
+https://data.sdss.org/sas/dr16/sdss/spectro/redux/26/spectra/lite/1072/spec-1072-52643-0137.fits
+https://data.sdss.org/sas/dr16/eboss/spectro/redux/v5_13_0/spectra/lite/3775/spec-3775-55207-0067.fits
+https://data.sdss.org/sas/dr16/eboss/spectro/redux/v5_13_0/spectra/lite/4004/spec-4004-55321-0054.fits
+https://data.sdss.org/sas/dr16/eboss/spectro/redux/v5_13_0/spectra/lite/4217/spec-4217-55478-0338.fits
+https://data.sdss.org/sas/dr16/eboss/spectro/redux/v5_13_0/spectra/lite/4217/spec-4217-55478-0796.fits
+https://data.sdss.org/sas/dr16/eboss/spectro/redux/v5_13_0/spectra/lite/7822/spec-7822-57041-0278.fits
+https://data.sdss.org/sas/dr16/eboss/spectro/redux/v5_13_0/spectra/lite/7866/spec-7866-57002-0979.fits
+https://data.sdss.org/sas/dr16/eboss/spectro/redux/v5_13_0/spectra/lite/7870/spec-7870-57016-0032.fits
+https://data.sdss.org/sas/dr16/eboss/spectro/redux/v5_13_0/spectra/lite/8789/spec-8789-57358-0239.fits
+https://data.sdss.org/sas/dr16/eboss/spectro/redux/v5_13_0/spectra/lite/8791/spec-8791-57373-0951.fits
+https://data.sdss.org/sas/dr16/eboss/spectro/redux/v5_13_0/spectra/lite/9151/spec-9151-58067-0073.fits

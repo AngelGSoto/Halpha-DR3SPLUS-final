@@ -1,0 +1,49 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: Field, datatype: string}
+# - {name: ID, datatype: string}
+# - {name: RA, datatype: float64}
+# - {name: DEC, datatype: float64}
+# - {name: FWHM, datatype: float64}
+# - {name: ISOarea, datatype: int64}
+# - {name: KRON_RADIUS, datatype: float64}
+# - {name: MU_MAX, datatype: float64}
+# - {name: nDet_PStotal, datatype: float64}
+# - {name: PhotoFlagDet, datatype: int64}
+# - {name: CLASS_STAR, datatype: float64}
+# - {name: u_PStotal, datatype: float64}
+# - {name: J0378_PStotal, datatype: float64}
+# - {name: J0395_PStotal, datatype: float64}
+# - {name: J0410_PStotal, datatype: float64}
+# - {name: J0430_PStotal, datatype: float64}
+# - {name: g_PStotal, datatype: float64}
+# - {name: J0515_PStotal, datatype: float64}
+# - {name: r_PStotal, datatype: float64}
+# - {name: J0660_PStotal, datatype: float64}
+# - {name: i_PStotal, datatype: float64}
+# - {name: J0861_PStotal, datatype: float64}
+# - {name: z_PStotal, datatype: float64}
+# - {name: e_u_PStotal, datatype: float64}
+# - {name: e_J0378_PStotal, datatype: float64}
+# - {name: e_J0395_PStotal, datatype: float64}
+# - {name: e_J0410_PStotal, datatype: float64}
+# - {name: e_J0430_PStotal, datatype: float64}
+# - {name: e_g_PStotal, datatype: float64}
+# - {name: e_J0515_PStotal, datatype: float64}
+# - {name: e_r_PStotal, datatype: float64}
+# - {name: e_J0660_PStotal, datatype: float64}
+# - {name: e_i_PStotal, datatype: float64}
+# - {name: e_J0861_PStotal, datatype: float64}
+# - {name: e_z_PStotal, datatype: float64}
+# - {name: r - i, datatype: float64}
+# - {name: r - J0660, datatype: float64}
+# - {name: e(r - i), datatype: float64}
+# - {name: e(r - J0660), datatype: float64}
+# - {name: P(GoodPho), datatype: float64}
+# - {name: P(BadPho), datatype: float64}
+# schema: astropy-2.0
+Field ID RA DEC FWHM ISOarea KRON_RADIUS MU_MAX nDet_PStotal PhotoFlagDet CLASS_STAR u_PStotal J0378_PStotal J0395_PStotal J0410_PStotal J0430_PStotal g_PStotal J0515_PStotal r_PStotal J0660_PStotal i_PStotal J0861_PStotal z_PStotal e_u_PStotal e_J0378_PStotal e_J0395_PStotal e_J0410_PStotal e_J0430_PStotal e_g_PStotal e_J0515_PStotal e_r_PStotal e_J0660_PStotal e_i_PStotal e_J0861_PStotal e_z_PStotal "r - i" "r - J0660" "e(r - i)" "e(r - J0660)" P(GoodPho) P(BadPho)
+"b'SPLUS-n15s05 '" "b'iDR3.SPLUS-n15s05.030347 '" 156.19240356520726 -18.640259406430125 14.521703 138 3.837694 10.72244 12.0 3 0.9966479 13.979157 14.111893 13.513956 14.429493 13.812301 12.277587 14.090717 13.436792 11.47743 14.596424 14.9057865 14.595655 0.0023457687 0.0034884429 0.0037125463 0.0050783996 0.0037088247 0.0007822407 0.00353299 0.0011593059 0.0005376379 0.0020410556 0.004122773 0.0025074475 -1.1596320000000002 1.9593620000000005 0.0023473172201613846 0.001277906366402179 0.01145421500860433 0.9885457849913957
+b'STRIPE82-0019' b'iDR3.STRIPE82-0019.044602' 12.50586461795442 0.0344992810446802 2.6031578 565 2.8199565 11.66776 12.0 2 0.99224013 19.283854 19.421885 19.369892 18.114164 17.71727 16.457973 16.222387 14.962698 14.0328665 14.322019 13.835772 13.989097 0.038403906 0.06611084 0.097804286 0.031948335 0.022692574 0.0047748927 0.008953317 0.0022494344 0.0016735367 0.0017044091 0.002265072 0.0017835262 0.6406790000000004 0.9298314999999988 0.0028222270461580813 0.0028036904619002166 0.13635043172175965 0.8636495682782404
+"b'SPLUS-s27s49 '" "b'iDR3.SPLUS-s27s49.062339 '" 319.517818265895 -34.22874036730848 2.6314566 299 2.9192615 11.91578 12.0 2 0.9970519 15.218492 15.319184 15.410584 15.748216 15.844159 15.73534 15.878789 15.607331 14.810293 15.432305 15.092776 15.132048 0.0041760523 0.0061925203 0.0091121085 0.009629716 0.0096609555 0.003763477 0.007653912 0.0031151911 0.002419838 0.002926865 0.0042607184 0.0030479357 0.1750260000000008 0.7970380000000006 0.004274453686466168 0.003944620581977842 0.22753725737051467 0.7724627426294853

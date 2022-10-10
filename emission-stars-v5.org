@@ -1038,3 +1038,7 @@ Now we count the objects by redshift range.
 : Number of HDBSCAN red objecs: 131
 : Number objects in commom: 131
 : % -> 100.0
+
+** Closing
+After submission the paper was rejected.
+   
